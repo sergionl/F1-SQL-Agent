@@ -1,0 +1,6 @@
+pandas
+numpy
+SQLAlchemy
+langchain
+langchain-community
+langchain-openai
